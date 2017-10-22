@@ -81,7 +81,7 @@ public class PlaneShooting : MonoBehaviour {
         shell.GetComponent<Rigidbody>().AddRelativeForce(new Vector3(-ran, ran, -ran * 2));
         */
         machinegun.transform.localEulerAngles = Vector3.Lerp(machinegun.transform.localEulerAngles, machinegun.transform.localEulerAngles + Vector3.up * 360 / 3, Time.deltaTime * 5);
-        transform.position = Vector3.Lerp(transform.position,transform.position + Vector3.forward * 0.3f, Time.deltaTime * 4);
+        //transform.position = Vector3.Lerp(transform.position,transform.position + Vector3.forward * 0.3f, Time.deltaTime * 5f);
     
         Invoke("ResetCooldown", 0.1f);
         //Destroy(bullet, 2.0f);
@@ -92,7 +92,7 @@ public class PlaneShooting : MonoBehaviour {
     {
         spareCount--;
         cooldownUP = true;
-        transform.position = Vector3.Lerp(transform.position, transform.position + Vector3.forward * -0.3f, Time.deltaTime * 4);
+        //transform.position = Vector3.Lerp(transform.position, transform.position + Vector3.forward * -0.3f, Time.deltaTime * 5);
     }
 
     private void ResetReload()
