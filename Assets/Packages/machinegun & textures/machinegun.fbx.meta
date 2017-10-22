@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 306e9f00cdbe7f640babf1940230e016
+timeCreated: 1508603385
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: lines
+    100002: //RootNode
+    100004: middleline
+    100006: nuds
+    100008: nuds1
+    100010: nuds2
+    100012: nuds3
+    100014: nudsc
+    100016: outrnutbolt
+    100018: plates
+    100020: polySurface10
+    100022: polySurface7
+    100024: pPipe1
+    100026: pPipe12
+    100028: pPipe13
+    100030: pPipe14
+    100032: pPipe15
+    100034: pPipe16
+    100036: pPipe17
+    100038: pPipe18
+    100040: pPipe19
+    100042: pPipe20
+    100044: pPipe21
+    100046: pPipe21 1
+    100048: pPipe21 2
+    100050: pPipe21 3
+    100052: pPipe22
+    100054: pPipe22 1
+    100056: pPipe22 2
+    100058: pPipe22 3
+    100060: pPipe23
+    100062: pPipe23 1
+    100064: pPipe23 2
+    100066: pPipe23 3
+    100068: pPipe24
+    100070: pPipe24 1
+    100072: pPipe24 2
+    100074: pPipe24 3
+    100076: pPipe25
+    100078: pPipe25 1
+    100080: pPipe25 2
+    100082: pPipe25 3
+    100084: pPipe26
+    100086: pPipe26 1
+    100088: pPipe26 2
+    100090: pPipe26 3
+    400000: lines
+    400002: //RootNode
+    400004: middleline
+    400006: nuds
+    400008: nuds1
+    400010: nuds2
+    400012: nuds3
+    400014: nudsc
+    400016: outrnutbolt
+    400018: plates
+    400020: polySurface10
+    400022: polySurface7
+    400024: pPipe1
+    400026: pPipe12
+    400028: pPipe13
+    400030: pPipe14
+    400032: pPipe15
+    400034: pPipe16
+    400036: pPipe17
+    400038: pPipe18
+    400040: pPipe19
+    400042: pPipe20
+    400044: pPipe21
+    400046: pPipe21 1
+    400048: pPipe21 2
+    400050: pPipe21 3
+    400052: pPipe22
+    400054: pPipe22 1
+    400056: pPipe22 2
+    400058: pPipe22 3
+    400060: pPipe23
+    400062: pPipe23 1
+    400064: pPipe23 2
+    400066: pPipe23 3
+    400068: pPipe24
+    400070: pPipe24 1
+    400072: pPipe24 2
+    400074: pPipe24 3
+    400076: pPipe25
+    400078: pPipe25 1
+    400080: pPipe25 2
+    400082: pPipe25 3
+    400084: pPipe26
+    400086: pPipe26 1
+    400088: pPipe26 2
+    400090: pPipe26 3
+    2300000: middleline
+    2300002: polySurface10
+    2300004: polySurface7
+    2300006: pPipe1
+    2300008: pPipe12
+    2300010: pPipe13
+    2300012: pPipe14
+    2300014: pPipe15
+    2300016: pPipe16
+    2300018: pPipe17
+    2300020: pPipe18
+    2300022: pPipe19
+    2300024: pPipe20
+    2300026: pPipe21
+    2300028: pPipe21 1
+    2300030: pPipe21 2
+    2300032: pPipe21 3
+    2300034: pPipe22
+    2300036: pPipe22 1
+    2300038: pPipe22 2
+    2300040: pPipe22 3
+    2300042: pPipe23
+    2300044: pPipe23 1
+    2300046: pPipe23 2
+    2300048: pPipe23 3
+    2300050: pPipe24
+    2300052: pPipe24 1
+    2300054: pPipe24 2
+    2300056: pPipe24 3
+    2300058: pPipe25
+    2300060: pPipe25 1
+    2300062: pPipe25 2
+    2300064: pPipe25 3
+    2300066: pPipe26
+    2300068: pPipe26 1
+    2300070: pPipe26 2
+    2300072: pPipe26 3
+    3300000: middleline
+    3300002: polySurface10
+    3300004: polySurface7
+    3300006: pPipe1
+    3300008: pPipe12
+    3300010: pPipe13
+    3300012: pPipe14
+    3300014: pPipe15
+    3300016: pPipe16
+    3300018: pPipe17
+    3300020: pPipe18
+    3300022: pPipe19
+    3300024: pPipe20
+    3300026: pPipe21
+    3300028: pPipe21 1
+    3300030: pPipe21 2
+    3300032: pPipe21 3
+    3300034: pPipe22
+    3300036: pPipe22 1
+    3300038: pPipe22 2
+    3300040: pPipe22 3
+    3300042: pPipe23
+    3300044: pPipe23 1
+    3300046: pPipe23 2
+    3300048: pPipe23 3
+    3300050: pPipe24
+    3300052: pPipe24 1
+    3300054: pPipe24 2
+    3300056: pPipe24 3
+    3300058: pPipe25
+    3300060: pPipe25 1
+    3300062: pPipe25 2
+    3300064: pPipe25 3
+    3300066: pPipe26
+    3300068: pPipe26 1
+    3300070: pPipe26 2
+    3300072: pPipe26 3
+    4300000: pPipe1
+    4300002: pPipe12
+    4300004: pPipe13
+    4300006: pPipe14
+    4300008: pPipe15
+    4300010: pPipe16
+    4300012: middleline
+    4300014: pPipe17
+    4300016: pPipe20
+    4300018: pPipe19
+    4300020: pPipe18
+    4300022: pPipe21
+    4300024: pPipe22
+    4300026: pPipe23
+    4300028: pPipe24
+    4300030: pPipe25
+    4300032: pPipe26
+    4300034: pPipe21
+    4300036: pPipe22
+    4300038: pPipe23
+    4300040: pPipe24
+    4300042: pPipe25
+    4300044: pPipe26
+    4300046: pPipe21
+    4300048: pPipe22
+    4300050: pPipe23
+    4300052: pPipe24
+    4300054: pPipe25
+    4300056: pPipe26
+    4300058: pPipe21
+    4300060: pPipe22
+    4300062: pPipe23
+    4300064: pPipe24
+    4300066: pPipe25
+    4300068: pPipe26
+    4300070: polySurface7
+    4300072: polySurface10
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
